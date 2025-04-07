@@ -5,7 +5,7 @@
 Repositories – A storage location for project files and their version history.
 Commits – Snapshots of changes made to files, allowing developers to track modifications.
 Branches – Parallel versions of a project that enable multiple features or fixes to be worked on simultaneously.
-Merging – Combining changes from different branches into a main project.
+Merging – Combining changes from different branches into a main project. 
 Pull Requests – A way for contributors to propose changes before merging them
 
 Why is it popular: 
